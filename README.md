@@ -1,12 +1,12 @@
 # Cyber-security-Project4
 The data collected by Google Maps over 5 weeks. The data is taken every half an hour.
 
-First Row: Timestamp
+First Column: Timestamp
 
-Second Row: Latitude
+Second Column: Latitude
 
-Third Row: Longitude
+Third Column: Longitude
 
-Forth Row: Accuracy
+Forth Column: Accuracy
 
-Fifth Row: Label
+Fifth Column: Label
